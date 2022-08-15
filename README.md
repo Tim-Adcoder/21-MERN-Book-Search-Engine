@@ -14,8 +14,7 @@ Google Books API search engine
 - [Usage](#usage)
 - [Features](#features)
 - [License](#license)
-- [Contribution](#contribution)
-- [Questions](#questions)
+
 
 
 ## Description
@@ -25,10 +24,10 @@ This application allows users to sign up, search and save books.
 
 
 # Deployed Application
-
+https://agile-refuge-63220.herokuapp.com/
 
 # Source code
-
+https://github.com/Tim-Adcoder/21-MERN-Book-Search-Engine
  
 
 ## User Story
